@@ -1,5 +1,6 @@
 # Drugs_Sales_Dashboard
 Here is the link: https://app.powerbi.com/groups/me/reports/73ccee63-dc2d-47f0-9aef-d20b63b94bb8/ReportSection?experience=power-bi
+
 Welcome to our Drug Sales Dashboard, your go-to tool for tracking and analyzing sales performance in the pharmaceutical world! Whether you're a sales manager, a data analyst, or just someone curious about market trends, this dashboard is designed to give you clear and actionable insights.
 
 With this dashboard, you can:
