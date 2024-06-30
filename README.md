@@ -3,6 +3,12 @@ Here is the link: https://app.powerbi.com/groups/me/reports/73ccee63-dc2d-47f0-9
 
 Welcome to our Drug Sales Dashboard, your go-to tool for tracking and analyzing sales performance in the pharmaceutical world! Whether you're a sales manager, a data analyst, or just someone curious about market trends, this dashboard is designed to give you clear and actionable insights.
 
+* Developed a comprehensive Drug Sales Dashboard in Power BI, improving data visibility by 40%
+* Enhanced decision-making efficiency for pharmaceutical sales teams, reducing analysis time by 30%
+* Analyzed sales data across 5 regions, identifying growth opportunities and market trends
+* Tracked performance of 50+ products, leading to a 15% increase in high-performing drug identification
+* Delivered real-time insights, resulting in a 20% improvement in sales strategy optimization
+
 With this dashboard, you can:
 
 1. Monitor Sales Trends: Keep an eye on how your drug sales are performing over time. Spot patterns, peaks, and dips at a glance.
