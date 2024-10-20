@@ -18,3 +18,13 @@ With this dashboard, you can:
 5. Real-Time Updates: Get the latest data at your fingertips, ensuring you're always making decisions based on the most current information.
 
 Our dashboard is intuitive and easy to navigate, with interactive visuals that make complex data simple and engaging. Dive into detailed reports, compare different time periods, and explore various metrics all with just a few clicks.
+### Top performing Customers, Drugs and KPI Dashboard
+![Top_Customer](https://github.com/user-attachments/assets/5e418d7a-fbc7-4143-b9fa-d78c9730a7b2)
+
+### Customers Analysis by Country, Gender, Age-group and Buyer Type
+![Customers](https://github.com/user-attachments/assets/5acb87e2-6a80-495e-bcb3-0c2e2bd1683c)
+
+### Trend Analysis
+![Trend](https://github.com/user-attachments/assets/3372d179-b950-4853-9346-2a0162180e76)
+
+
